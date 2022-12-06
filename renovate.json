@@ -3,5 +3,6 @@
   "extends": [
     "config:base"
   ],
-  "assignees": ["cah-dipak-panda", "cah-krithi-d", "cah-sourabh-singh"]
+  "assignees": ["cah-dipak-panda", "cah-krithi-d", "cah-sourabh-singh"],
+  "reviewers": [ "cah-krithi-d"]
 }
